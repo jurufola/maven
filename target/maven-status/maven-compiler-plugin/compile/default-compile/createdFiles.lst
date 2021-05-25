@@ -1,0 +1,6 @@
+dev\AppConfig$JacksonMessagePackProvider.class
+dev\AppConfig$JerseyConfig.class
+dev\App.class
+dev\AppConfig.class
+dev\CalcEndpoint.class
+dev\CalcEndpoint$Result.class
